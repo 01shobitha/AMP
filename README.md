@@ -24,7 +24,7 @@ COD: A section for the recipients to apply for COD, where they would have to ent
 * Integrating with gmail to send comfirmation mails on delivery and COD.
 
 ### Technologies used:
-*Django framework
-*python scripts for OCR
-*HTML
-*CSS.
+* Django framework
+* python scripts for OCR
+* HTML
+* CSS.
